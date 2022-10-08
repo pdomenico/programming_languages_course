@@ -11,3 +11,11 @@ dates_in_month(dates, 5);
 dates_in_months(dates, [3, 4]);
 
 get_nth(["ciao", "mi", "chiamo", "domenico"], 4);
+
+val test1 = number_before_reaching_sum(50, [34, 1, 3, 5, 6, 5, 7, 8, 39, 70]) = 5
+val test2 = number_before_reaching_sum(10, [8, 9, 543, 76]) = 1
+val test3 = number_before_reaching_sum(100, [99, 1, 60]) = 1
+
+val test9 = what_month 70 = 3
+
+val test10 = month_range (31, 34) = [1,2,2,2]
